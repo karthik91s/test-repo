@@ -1,3 +1,1 @@
-# test-repo
-Hello world
-test the code
+Sample file to test jenkins deployment
